@@ -2933,12 +2933,12 @@ smsm120.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
-smsm5.login("");
-smsm6.login("");
+smsm.login("ODg5MTE0NTk0NzQyNzkyMTkz.YUciiw.tYdnosqkm1wGXxRV_CQQg5ZL2Dk");
+smsm2.login("ODg5MTE0Mzg3MzA5MjkzNjU4.YUciYw.xTqkq7Pwn0BAaATdI9WeIc3JGNQ");
+smsm3.login("ODg5MTE0MDg2MDk5NTI1NjUy.YUciGw.TxbdSFiuiRNAyy03wtfcyNnppqc");
+smsm4.login("ODg5MTEzNzkwNzE1Njc0NjI1.YUchzQ.M0Q45d7Znh_ph3ZxNwdyvlBDaKI");
+smsm5.login("ODg5MTEzMzg2NTczNTI1MDQy.YUchbA.xxzFD9TA1sQP0RP7w4far-khpFQ");
+smsm6.login("ODg5MTEzMTg1Mzg1MzQ1MDc0.YUchPA.cR8R8IKCxVgSZmSdCewTIeGvJtQ");
 smsm7.login("");
 smsm8.login("");
 smsm9.login("");
